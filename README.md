@@ -21,10 +21,9 @@ pip install customtkinter pygame pillow
 ```
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/fc471306-3b29-489e-b4b8-351d50aa1665)
-<img src="![Image](https://github.com/user-attachments/assets/6c6880e8-00e5-43bd-abef-fb5b633f7084)">
-<img src="![Image](https://github.com/user-attachments/assets/06660832-7ea2-4037-9615-a7f0cb900455)">
-<img src="![Image](https://github.com/user-attachments/assets/61132313-ea54-4293-bc81-8e55cedd5f4f)">
-
+![Image](https://github.com/user-attachments/assets/8fa9b3ee-e525-4a91-8c91-cadd11ad32ec)
+![Image](https://github.com/user-attachments/assets/ca127e0a-d18c-474c-9647-f74c6970ae82)
+![Image](https://github.com/user-attachments/assets/0c4aa9d5-eb3d-423a-998b-84b5930f5b97)
 ## How to Run the Project
 1. Clone the repository:
    ```bash
