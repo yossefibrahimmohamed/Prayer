@@ -20,7 +20,7 @@ Run the following command to install the required libraries:
 pip install customtkinter pygame pillow
 ```
 ## Screenshots
-<img src="![Image](https://github.com/user-attachments/assets/71dc9272-706e-4266-acf6-34e0ddd2fa45)">
+![Image](https://github.com/user-attachments/assets/fc471306-3b29-489e-b4b8-351d50aa1665)
 <img src="![Image](https://github.com/user-attachments/assets/6c6880e8-00e5-43bd-abef-fb5b633f7084)">
 <img src="![Image](https://github.com/user-attachments/assets/06660832-7ea2-4037-9615-a7f0cb900455)">
 <img src="![Image](https://github.com/user-attachments/assets/61132313-ea54-4293-bc81-8e55cedd5f4f)">
