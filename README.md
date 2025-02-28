@@ -1,5 +1,10 @@
 # Prayer By Yossef Ibrahim
 
+# Quran Yasser El-dosary 
+
+![Image](https://github.com/user-attachments/assets/b6d93676-8d8f-45fa-b8df-6ffc7bf638de)
+
+
 Prayer By Yossef Ibrahim is a Python-based application built with `CustomTkinter` that provides an interactive and user-friendly interface for accessing Quran recitations, prayers, and other Islamic features.
 
 ## Features
@@ -58,6 +63,9 @@ Feel free to fork this repository, make improvements, and submit pull requests!
 
 ## License
 This project is licensed under the MIT License.
+
+## Extract audio.rar to Folder audio To run the Quran 
+
 
 ---
 Developed by **Yossef Ibrahim Mohamed** 🎯🚀
